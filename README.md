@@ -28,5 +28,5 @@ This tool is for educational purpose only, usage of network scanner for attackin
 
 # Install Modules 
 
-	pip install -r requirements.txt
+	pip3 install -r requirements.txt
 
