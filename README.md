@@ -10,6 +10,12 @@ This tool is used to scan networks.
 # Information
 This tool is for educational purpose only, usage of network scanner for attacking targets without prior mutual consent is illegal. Developer assume no liability and is not responsible for any misuse or damage cause by this program.
 
+# Download 
+	
+	git clone https://github.com/inavedanjum/Network-Scanner.git
+	cd Network-Scanner
+	chmod +x network_scanner.py
+	
 # Usage
 	
 	python3 network_scanner.py -t <target>
